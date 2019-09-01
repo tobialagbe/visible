@@ -7,7 +7,7 @@ Visible is a Javascript utility for detecting if an element is visible within th
 To use, simply copy the src/visible-pure.min.js file into your project directory and create a link in your file 
 
 ```script
-<script src="src/visible.min.js"></script>
+<script src="src/visible-pure.min.js"></script>
 ```
 
 ## Usage
